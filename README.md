@@ -1,4 +1,5 @@
 # Ball-Pivoting-Algorithm
+Its an algorithm to reconstruct surface from point clouds.
 
 ![](https://github.com/irtiza26/Ball-Pivoting-Algorithm/blob/main/WhatsApp%20Video%202023-05-11%20at%2013.57.03.gif)
 
